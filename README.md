@@ -17,7 +17,7 @@ Page HTML source code,
 Page Title,
 ScreenShot of page
 
-send notification to Telegram with BOT and save to database when trigger fire.
+send notification to Telegram with BOT and save to database when trigger fired.
 
 ## How to install :
 
