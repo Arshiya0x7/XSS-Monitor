@@ -1,4 +1,18 @@
 # XSS Monitor tool for OOB Blind-XSS
+ The XSS-Monitor Tool is provided for educational purposes only.
+ 
+This tool is designed for testing XSS vulnerabilities and helping make the Internet and Web applications more secure. By using this tool, you get this item from user load xss : 
+
+Cookies ,
+Location,
+UserAgent,
+User ip,
+Local Data,
+Session Data,
+Inputs item,
+Page HTML source code,
+Page Title,
+ScreenShot of page
 
 ## How to install :
 
